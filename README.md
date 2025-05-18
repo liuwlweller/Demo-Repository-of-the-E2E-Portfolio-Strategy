@@ -14,3 +14,5 @@
   rl_out.pkl: Low returns.
 **Quick Start:**
   Simply run the main script Code_Sample.py—it will automatically load the prepared DJIA data from the data_a/ folder, execute the model’s end-to-end pipeline, and print out key empirical results from the paper without any additional setup.
+**Note:** 
+  If you wish to regenerate all intermediate files from scratch, please refer to the data-preprocessing steps in the paper’s appendix or add a preprocessing module directly into Code_Sample.py.
